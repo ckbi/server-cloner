@@ -18,6 +18,7 @@ if os == "Windows":
 else:
     system("clear")
     print(chr(27) + "[2J")
+    print("made with <3 unclear9150")
 print(f"""{Fore.RED}         dP                                        dP                                              dP                                    .d888b. d88  888888P  a8888a  
          88                                        88                                              88                             dP dP  Y8' `88  88  88'     d8' ..8b 
 .d8888b. 88 .d8888b. 88d888b. .d8888b. 88d888b.    88d888b. dP    dP    dP    dP 88d888b. .d8888b. 88 .d8888b. .d8888b. 88d888b. 8888888 `8bad88  88  88baaa. 88 .P 88 
